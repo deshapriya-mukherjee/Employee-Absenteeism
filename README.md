@@ -7,7 +7,7 @@ Our task is to build regression models which will classify the quality what chan
 Sample Dataset: (Total 21 Variables and 740 Observations)
 
 
-#### Attribute Information:
+##### Attribute Information:
 1. Individual identification (ID).
 2. Reason for absence (ICD).
 Absences attested by the International Code of Diseases (ICD) stratified into 21 categories (I to XXI) as follows:
